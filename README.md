@@ -102,4 +102,8 @@ La lista completa de referencias, con su aporte específico a cada sección del 
 
 ## Autor
 
-Wilmer Ruiz Camacho, Máster en Big Data y Ciencia de Datos, Universidad Internacional de Valencia (VIU). Director: Raúl Reyero Diez.
+Wilmer Ruiz Camacho, Máster en Big Data y Ciencia de Datos, Universidad Internacional de Valencia (VIU). 
+
+## Director
+
+Enrique De Miguel Ambite, Universidad Internacional de Valencia (VIU). 
